@@ -70,6 +70,7 @@
     <Content Include="MenuPrincipal.aspx" />
     <Content Include="Web.config" />
     <Content Include="WFPersonas.aspx" />
+    <Content Include="WFProductos.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MenuPrincipal.aspx.cs">
@@ -86,6 +87,13 @@
     </Compile>
     <Compile Include="WFPersonas.aspx.designer.cs">
       <DependentUpon>WFPersonas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WFProductos.aspx.cs">
+      <DependentUpon>WFProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WFProductos.aspx.designer.cs">
+      <DependentUpon>WFProductos.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
