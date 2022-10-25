@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="MenuPrincipal.aspx" />
     <Content Include="Web.config" />
+    <Content Include="CiudadesPaises.aspx" />
     <Content Include="WFPersonas.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -80,6 +81,13 @@
       <DependentUpon>MenuPrincipal.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CiudadesPaises.aspx.cs">
+      <DependentUpon>CiudadesPaises.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CiudadesPaises.aspx.designer.cs">
+      <DependentUpon>CiudadesPaises.aspx</DependentUpon>
+    </Compile>
     <Compile Include="WFPersonas.aspx.cs">
       <DependentUpon>WFPersonas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

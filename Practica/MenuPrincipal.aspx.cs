@@ -18,5 +18,11 @@ namespace Practica
         {
             Response.Redirect("WFPersonas.aspx");
         }
+
+        protected void Button4_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("CiudadesPaises.aspx");
+
+        }
     }
 }
