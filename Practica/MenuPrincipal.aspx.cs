@@ -18,5 +18,10 @@ namespace Practica
         {
             Response.Redirect("WFPersonas.aspx");
         }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WFRoles.aspx");
+        }
     }
 }
