@@ -57,3 +57,13 @@ C:\Users\jesit\Uniautonoma\Calidad_II\practica\Practica\obj\Debug\Practica.cspro
 C:\Users\jesit\Uniautonoma\Calidad_II\practica\Practica\obj\Debug\Practica.csproj.CopyComplete
 C:\Users\jesit\Uniautonoma\Calidad_II\practica\Practica\obj\Debug\Practica.dll
 C:\Users\jesit\Uniautonoma\Calidad_II\practica\Practica\obj\Debug\Practica.pdb
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\bin\Practica.dll.config
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\bin\Practica.dll
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\bin\Practica.pdb
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\obj\Debug\Practica.csproj.CopyComplete
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\obj\Debug\Practica.dll
+C:\UNIVERSIDAD ING - SOFTWARE\UNI-PERIODO 2 - 2022\CALIDAD DEL SOFTWARE II\Calidad\practica\Practica\obj\Debug\Practica.pdb
