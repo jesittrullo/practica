@@ -7,21 +7,21 @@ using System.Web.UI.WebControls;
 
 namespace Practica
 {
-    public partial class MenuPrincipal : System.Web.UI.Page
+    public partial class WFpqr : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
         }
 
-        protected void BtnPersonas_Click(object sender, EventArgs e)
+        protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            Response.Redirect("WFPersonas.aspx");
+
         }
 
-        protected void Button7_Click(object sender, EventArgs e)
+        protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("WFpqr.aspx");
+            Response.Redirect("MenuPrincipal.aspx");
         }
     }
 }
